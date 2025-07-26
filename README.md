@@ -2,6 +2,12 @@
 
 Collection of articles and links that you can read about for Istio Ambient Mesh.
 
+Connect with me
+
+[Linkedin](https://www.linkedin.com/in/leon-nunes/)
+[Twitter](https://x.com/mediocreDevops)
+[Dev.to](https://dev.to/mediocreDevops)
+
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ambientmesh.io/logo-ambient-mesh-light.svg" alt="ambient mesh" width="400">
